@@ -12,7 +12,7 @@ import WhyChoose from "../components/WhyChoose/WhyChoose";
 import Process from "../components/Process/Process";
 import Testimonials from "../components/Testimonials/Testimonials";
 import FAQ from "../components/FAQ/FAQ";
-import Careers from "../components/Careers/Careers";
+import Careers from "../components/careers/Careers";
 import Contact from "../components/Contact/Contact";
 import Footer from "../components/Footer/Footer";
 import FloatingWhatsApp from "../components/FloatingWhatsApp/FloatingWhatsApp";
